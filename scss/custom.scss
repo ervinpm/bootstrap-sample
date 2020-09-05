@@ -1,0 +1,17 @@
+// Project specific colors
+
+$primary:       #11172b;
+$secondary:     #e01933;
+$success:       #9FD356;
+$info:          #FAFFFD;
+$warning:       #ECDD7B;
+$danger:        #e01933;
+$dark:          #11172b;
+
+$yiq-text-dark:             #11172b;
+
+$body-color:    #0b1f66;
+
+
+// Import Bootstrap Core components
+@import "../node_modules/bootstrap/scss/bootstrap";
